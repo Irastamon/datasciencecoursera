@@ -1,2 +1,2 @@
 # datasciencecoursera
-first repo four course
+first repo for course
